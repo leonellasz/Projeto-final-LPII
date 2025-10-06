@@ -1,0 +1,5 @@
+2025-10-06 12:25:42 | [INFO] Iniciando o sistema concorrente (Etapa Final - Servidor)...
+2025-10-06 12:25:42 | [WARNING] Arquivo 'users.txt' nao encontrado.
+2025-10-06 12:25:42 | [INFO] Socket do servidor criado com sucesso.
+2025-10-06 12:25:42 | [INFO] Bind realizado com sucesso na porta 8080
+2025-10-06 12:25:42 | [INFO] Servidor escutando por conexoes na porta 8080
